@@ -3,14 +3,16 @@ Image augmentation using Generative Machine Learning
 
 
 
-### 1. Generate synthetic images of protoplanetary disks hosting exoplanets using Generative modelling:
+### 1. Generate synthetic images of protoplanetary disks hosting exoplanets using Generative modeling:
 a. We train a Generative Adversarial Network to generate new images
+
 b. We train a Diffusion model to generate new images 
 
 Training data: Both the models were trained using ~ 100,000 images produced using FARGO3D hydrodynamics simulations + RADMC3D radiative transfer code 
 
 ### 2. Generative MODEL to rotate the protoplanetary disk images from any arbitrary orientation to face-on images: we adopt the PIX2PIX code
 a.  Rotate the protoplanetary disk images from any arbitrary orientation to face-on images 
+
 b.  Generate synthetic radiative transfer images from Hydro output images (Done in a separate notebook) 
 
 ### 3. Generative MODEL to rotate the protoplanetary disk images from any arbitrary orientation to face-on images: We modify the PIX2PIX code and add an ATTENTION module to improve performance
