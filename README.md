@@ -13,13 +13,18 @@ Training data: Both the models were trained using ~ 100,000 images produced usin
 ### 2. Generative MODEL to rotate the protoplanetary disk images from any arbitrary orientation to face-on images: we adopt the PIX2PIX code
 a.  Rotate the protoplanetary disk images from any arbitrary orientation to face-on images 
 
-b.  Generate synthetic radiative transfer images from Hydro output images (Done in a separate notebook) 
+
+
+![sample_image](https://github.com/sauddy/Generative_Models/assets/46558389/06ec2fa4-8b82-4a23-8479-e335ce7140dc)
+
 
 ### 3. Generative MODEL to rotate the protoplanetary disk images from any arbitrary orientation to face-on images: We modify the PIX2PIX code and add an ATTENTION module to improve performance
 
 The following animation shows the training of the PIX2PIX Gan model where it rotates the input disks (oriented randomly in the sky)
 to face-on-images
 
+
+b.  Generate synthetic radiative transfer images from Hydro output images (Done in a separate notebook) 
 
 
 
