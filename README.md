@@ -1,4 +1,4 @@
-# Generative Modeling
+# Generative Modeling Using GAN and Diffusion Algorithms 
 Image augmentation using Generative Machine Learning
 
 
