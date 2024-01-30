@@ -21,7 +21,7 @@ The following animation shows the training of the PIX2PIX Gan model where it rot
 to face-on-images
 https://github.com/sauddy/Generative_Models/assets/46558389/0d614a57-402d-4069-b49d-be822d50e46e
 
-### 3. Attention bases Image Rotation: Generative MODEL to rotate the protoplanetary disk images from any arbitrary orientation to face-on images: We modify the PIX2PIX code and add an ATTENTION module to improve performance
+### 3. Attention based Image Rotation: Generative MODEL to rotate the protoplanetary disk images from any arbitrary orientation to face-on images: We modify the PIX2PIX code and add an ATTENTION module to improve performance
 
 The following image demonstrates an example case, where the GAN with self_attenstion model rotates the input image to generate a face-on image
 
