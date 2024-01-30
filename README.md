@@ -1,4 +1,4 @@
-# Generative Modelling
+# Generative Modeling
 Image augmentation using Generative Machine Learning
 
 
