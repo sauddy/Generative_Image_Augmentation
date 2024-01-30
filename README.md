@@ -3,8 +3,8 @@ Image augmentation using Generative Machine Learning
 
 
 
-### 1. Generate synthetic images of protoplanetary disks hosting exoplanets using Generative modeling:
-a. We train a Generative Adversarial Network to generate new images
+### 1. Generate synthetic images of protoplanetary disks (PPDs) hosting exoplanets using Generative modeling:
+a. We train a Generative Adversarial Network(GAN) to generate new images of PPDs
 
 b. We train a Diffusion model to generate new images 
 
